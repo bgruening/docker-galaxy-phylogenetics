@@ -45,45 +45,53 @@ tools:
   tool_panel_section_label: "Alignments"
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
   install_resolver_dependencies: True
+  install_tool_dependencies: False
 
 - name: mafft
   owner: rnateam
   tool_panel_section_label: "Alignments"
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
   install_resolver_dependencies: True
+  install_tool_dependencies: False
 
 - name: muscle
   owner: crs4
   tool_panel_section_label: "Alignments"
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
   install_resolver_dependencies: True
+  install_tool_dependencies: False
 
 - name: phyml
   owner: vlefort
   tool_panel_section_label: "Phylogeny construction"
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
   install_resolver_dependencies: True
+  install_tool_dependencies: False
 
 - name: raxml
   owner: tiagoantao
   tool_panel_section_label: "Phylogeny construction"
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
   install_resolver_dependencies: True
+  install_tool_dependencies: False
 
 - name: graphlan
   owner: bebatut
   tool_panel_section_label: "Visualization"
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
   install_resolver_dependencies: True
+  install_tool_dependencies: False
 
 - name: export2graphlan
   owner: bebatut
   tool_panel_section_label: "Visualization"
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
   install_resolver_dependencies: True
+  install_tool_dependencies: False
 
 - name: beast
   owner: malex
   tool_panel_section_label: "Phylogeny construction"
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
   install_resolver_dependencies: True
+  install_tool_dependencies: False
