@@ -45,7 +45,6 @@ tools:
   tool_panel_section_label: "Alignments"
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
   install_resolver_dependencies: True
-  install_tool_dependencies: False
 
 - name: mafft
   owner: rnateam
@@ -66,14 +65,12 @@ tools:
   tool_panel_section_label: "Phylogeny construction"
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
   install_resolver_dependencies: True
-  install_tool_dependencies: False
 
 - name: raxml
   owner: tiagoantao
   tool_panel_section_label: "Phylogeny construction"
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
   install_resolver_dependencies: True
-  install_tool_dependencies: False
 
 - name: graphlan
   owner: bebatut
