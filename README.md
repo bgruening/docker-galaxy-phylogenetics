@@ -1,7 +1,7 @@
 # galaxy-phylogenetics
 :whale::bar_chart::books: Docker Images for molecular phylogenetics
 
-[![Build Status](https://travis-ci.org/bgruening/galaxy-phylogenetics.svg?branch=master)](https://travis-ci.org/bgruening/galaxy-phylogenetics)
+[![Build Status](https://travis-ci.org/bgruening/docker-galaxy-phylogenetics.svg?branch=master)](https://travis-ci.org/bgruening/docker-galaxy-phylogenetics)
 [![Docker Repository on Quay](https://quay.io/repository/bgruening/galaxy-phylogenetics/status "Docker Repository on Quay")](https://quay.io/repository/bgruening/galaxy-phylogenetics)
 
 Galaxy Image for Molecular Phylogenetics
