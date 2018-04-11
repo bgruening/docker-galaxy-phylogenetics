@@ -1,6 +1,6 @@
 # Galaxy - Phylogenetics
 
-FROM bgruening/galaxy-ngs-preprocessing:17.05
+FROM quay.io/bgruening/galaxy-ngs-preprocessing:18.01
 
 MAINTAINER Björn A. Grüning, bjoern.gruening@gmail.com
 
