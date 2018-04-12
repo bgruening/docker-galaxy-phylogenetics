@@ -3,6 +3,7 @@
 
 [![Build Status](https://travis-ci.org/bgruening/docker-galaxy-phylogenetics.svg?branch=master)](https://travis-ci.org/bgruening/docker-galaxy-phylogenetics)
 [![Docker Repository on Quay](https://quay.io/repository/bgruening/galaxy-phylogenetics/status "Docker Repository on Quay")](https://quay.io/repository/bgruening/galaxy-phylogenetics)
+[![Gitter](https://badges.gitter.im/bgruening/docker-galaxy-stable.svg)](https://gitter.im/bgruening/docker-galaxy-stable?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 Galaxy Image for Molecular Phylogenetics
 ================================
